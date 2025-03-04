@@ -16,7 +16,7 @@ A simple weather application build with DJANGO framework, that fetches real-time
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/abdulmoizniazi/weather-app.git
+   git clone https://github.com/abdulmoizniazi/Weather-App-.git
    ```
 2. Navigate to the project directory:
    ```sh
