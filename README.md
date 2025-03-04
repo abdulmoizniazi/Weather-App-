@@ -1,6 +1,6 @@
 # Weather App
 
-A simple weather application that fetches real-time weather data using OpenWeatherMap API and displays a city-specific background image using Google Custom Search Engine.
+A simple weather application build with DJANGO framework, that fetches real-time weather data using OpenWeatherMap API and displays a city-specific background image using Google Custom Search Engine.
 
 ## Features
 - Get current weather details for any city.
